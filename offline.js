@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1777099562,
+	"version": 1777120786,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,10 +37,15 @@
 		"images/kunci-sheet0.png",
 		"images/keys-sheet0.png",
 		"images/tiledbackground5.png",
+		"images/sprite6-sheet0.png",
+		"images/road_18-sheet0.png",
+		"images/tiledbackground6.png",
 		"media/sfx_pickup.m4a",
 		"media/sfx_pickup.ogg",
 		"media/sfx_victory.m4a",
 		"media/sfx_victory.ogg",
+		"media/sfx_vestigium.m4a",
+		"media/sfx_vestigium.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

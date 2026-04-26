@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1777123421,
+	"version": 1777182293,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,10 +40,14 @@
 		"images/sprite6-sheet0.png",
 		"images/road_18-sheet0.png",
 		"images/tiledbackground6.png",
+		"images/avatar2-sheet0.png",
 		"images/btn_up-sheet0.png",
 		"images/btn_down-sheet0.png",
 		"images/btn_right-sheet0.png",
 		"images/btn_left-sheet0.png",
+		"images/city_soldier-sheet0.png",
+		"images/city_soldier-sheet1.png",
+		"images/road_soldier-sheet0.png",
 		"media/sfx_pickup.m4a",
 		"media/sfx_pickup.ogg",
 		"media/sfx_victory.m4a",

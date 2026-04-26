@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1777182293,
+	"version": 1777206142,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,9 @@
 		"images/city_soldier-sheet0.png",
 		"images/city_soldier-sheet1.png",
 		"images/road_soldier-sheet0.png",
+		"images/anjing-sheet0.png",
+		"images/city_girl-sheet0.png",
+		"images/city_girl-sheet1.png",
 		"media/sfx_pickup.m4a",
 		"media/sfx_pickup.ogg",
 		"media/sfx_victory.m4a",
